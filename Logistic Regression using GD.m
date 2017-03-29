@@ -54,5 +54,3 @@ figure()
 %scatter(data(data(:,4)==1,2),data(data(:,4)==1,3),'b');
 %scatter(data(data(:,4)==0,2),data(data(:,4)==0,3),'r');
 plot(1:number_of_iterations, cost_function)
-%Preguntar a ye como usar la formula de ir incrementando theta. Cual es la
-%theta inicial?
